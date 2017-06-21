@@ -68,3 +68,10 @@ main {
     }
 }
 
+div .staffrow {
+  margin-bottom: 20px;
+}
+
+div .staffpicture {
+  margin-left: 20px;
+}
