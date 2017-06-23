@@ -13,6 +13,14 @@
     top: 370px;
 }
 
+.card-block a:visited, a:active, a:hover {
+  color: black;
+}
+
+h4.card-title {
+  color: black;
+}
+
 .col-xs-15,
 .col-sm-15,
 .col-md-15,
