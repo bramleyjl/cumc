@@ -58,21 +58,21 @@ main {
 @media (min-width: 768px) {
 .col-sm-15 {
         width: 20%;
-        float: left;
+        float: right;
     }
 }
 
 @media (min-width: 992px) {
     .col-md-15 {
         width: 20%;
-        float: left;
+        float: right;
     }
 }
 
 @media (min-width: 1200px) {
     .col-lg-15 {
         width: 20%;
-        float: left;
+        float: right;
     }
 }
 
